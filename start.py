@@ -24,4 +24,4 @@ try:
     startservers.check()
     sys.exit(1)
 except KeyboardInterrupt:
-    print "\nstopping servers."
+    print("\nstopping servers.")
